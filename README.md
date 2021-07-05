@@ -22,3 +22,8 @@ Os comandos para a limpeza das outras variáveis e seus respectivos gráficos s�
 ![image](https://user-images.githubusercontent.com/81119854/124487710-6d5afb00-dd85-11eb-94ea-2bcab61285fc.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/124487591-4ac8e200-dd85-11eb-9d14-0d77d9ca8554.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124487845-8fed1400-dd85-11eb-93a1-103ce7ef4a50.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124487984-b57a1d80-dd85-11eb-84c6-da3f9d6b45f1.png)
+
