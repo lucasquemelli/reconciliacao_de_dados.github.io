@@ -28,3 +28,8 @@ Os comandos para a limpeza das outras variáveis e seus respectivos gráficos s�
 ![image](https://user-images.githubusercontent.com/81119854/124487984-b57a1d80-dd85-11eb-84c6-da3f9d6b45f1.png)
 
 # Histogramas
+
+Após a limpeza individual e multivariada dos outliers, foram construídos histogramas com os dados das variáveis para verificar se alguma possuía distribuição diferente da normal. Uma distribuição normal apresenta eventos aleatórios. Uma distribuição diferente da normal, apresenta uma tendência em um determinado evento. Esse método estatístico permite a identificação de algum erro em um sistema/conjunto de dados.
+
+A seguir, o comando no R para os histogramas de cada variável: 
+
