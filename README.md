@@ -69,3 +69,8 @@ O comando no RStudio para a reconciliação dos dados está abaixo:
 ![image](https://user-images.githubusercontent.com/81119854/124499660-c716f180-dd94-11eb-9c1e-f84e1ea68e20.png)
 ![image](https://user-images.githubusercontent.com/81119854/124499722-df870c00-dd94-11eb-9e3f-b59159132eb4.png)
 
+ Fmincon foi a função utilizada para minimizar o erro e SQP foi o tipo de método para minimização. 
+ 
+ Para salvar o conteúdo em uma matriz de dados, foi necessário declarar uma matriz antes do loop FOR para um tamanho igual ao da matriz original. Após a função de minimização, foi implementada a matriz que recebeu os resultados. E assim foi possível salvar os resultados reconciliados em uma nova matriz. 
+ 
+ 
