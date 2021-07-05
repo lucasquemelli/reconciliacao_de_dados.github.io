@@ -49,7 +49,7 @@ O único histograma que não apresentou uma distribuição normal foi o da vari�
 
 # Gráfico de dispersão
 
-Após a confirmação da presença do erro sistemático na variável F2, foi feito um gráfico de dispersão com os pontos da vazão de F2 pelo tempo (n° de observações) para verificar seu comportamento. 
+Após a confirmação da presença do erro sistemático na variável F2, foi feito um gráfico de dispersão com os pontos da vazão F2 pelo tempo (n° de observações) para verificar seu comportamento. 
 
 ![image](https://user-images.githubusercontent.com/81119854/124499096-d184bb80-dd93-11eb-9479-5eab0dd24ac0.png)
 ![image](https://user-images.githubusercontent.com/81119854/124499038-bca82800-dd93-11eb-9342-7ef8480797e5.png)
