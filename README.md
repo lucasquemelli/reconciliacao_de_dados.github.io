@@ -27,3 +27,4 @@ Os comandos para a limpeza das outras variáveis e seus respectivos gráficos s�
 
 ![image](https://user-images.githubusercontent.com/81119854/124487984-b57a1d80-dd85-11eb-84c6-da3f9d6b45f1.png)
 
+# Histogramas
