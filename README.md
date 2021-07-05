@@ -33,3 +33,24 @@ Após a limpeza individual e multivariada dos outliers, foram construídos histo
 
 A seguir, o comando no R para os histogramas de cada variável: 
 
+![image](https://user-images.githubusercontent.com/81119854/124498171-4ce56d80-dd92-11eb-990f-6971ec6fb3d9.png)
+![image](https://user-images.githubusercontent.com/81119854/124498228-62f32e00-dd92-11eb-9ce5-f10e3c82f4fc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124498322-861ddd80-dd92-11eb-9b50-99b669301079.png)
+![image](https://user-images.githubusercontent.com/81119854/124498375-9c2b9e00-dd92-11eb-8e36-e9a04604c8b2.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124498446-ba919980-dd92-11eb-9203-88b6f2d3111c.png)
+![image](https://user-images.githubusercontent.com/81119854/124498491-ce3d0000-dd92-11eb-90d3-5143005947f2.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124498543-e876de00-dd92-11eb-8fea-143d5c74e718.png)
+![image](https://user-images.githubusercontent.com/81119854/124498588-f9bfea80-dd92-11eb-8a2b-e235e8a47b2c.png)
+
+O único histograma que não apresentou uma distribuição normal foi o da variável F2. Portanto, essa é a variável com erro sistemático. 
+
+# Gráfico de dispersão
+
+Após a confirmação da presença do erro sistemático na variável F2, foi feito um gráfico de dispersão com os pontos da vazão de F2 pelo tempo (n° de observações) para verificar seu comportamento. 
+
+![image](https://user-images.githubusercontent.com/81119854/124499096-d184bb80-dd93-11eb-9479-5eab0dd24ac0.png)
+![image](https://user-images.githubusercontent.com/81119854/124499038-bca82800-dd93-11eb-9342-7ef8480797e5.png)
+
