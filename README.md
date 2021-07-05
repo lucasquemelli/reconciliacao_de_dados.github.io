@@ -66,3 +66,6 @@ em que F1R, F2R, F1AR e F3R são os valores reconciliados de F1, F2, F1A e F3, r
 
 O comando no RStudio para a reconciliação dos dados está abaixo:
 
+![image](https://user-images.githubusercontent.com/81119854/124499660-c716f180-dd94-11eb-9c1e-f84e1ea68e20.png)
+![image](https://user-images.githubusercontent.com/81119854/124499722-df870c00-dd94-11eb-9e3f-b59159132eb4.png)
+
