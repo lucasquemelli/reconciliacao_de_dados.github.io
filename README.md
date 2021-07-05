@@ -54,3 +54,15 @@ Após a confirmação da presença do erro sistemático na variável F2, foi fei
 ![image](https://user-images.githubusercontent.com/81119854/124499096-d184bb80-dd93-11eb-9479-5eab0dd24ac0.png)
 ![image](https://user-images.githubusercontent.com/81119854/124499038-bca82800-dd93-11eb-9342-7ef8480797e5.png)
 
+Pelo comportamento da variável F2, foi possível identificar que após a observação de número 24031 a curva apresenta uma descontinuidade. Isso pode ter ocorrido após a calibração do medidor de vazão quando descobriram o erro sistemático, confirmando a hipótese de ser a variável F2 aquela que apresenta erro. 
+
+# Processo de reconciliação dos dados
+
+Identificada a variável com erro sistemático, efetua-se a reconciliação de dados a partir da minimização do somatório do erro quadrático, considerando o valor medido menos o valor reconciliado, conforme a Equação abaixo: 
+
+![image](https://user-images.githubusercontent.com/81119854/124499471-6f788600-dd94-11eb-81a6-1732774af428.png)
+
+em que F1R, F2R, F1AR e F3R são os valores reconciliados de F1, F2, F1A e F3, respectivamente.
+
+O comando no RStudio para a reconciliação dos dados está abaixo:
+
