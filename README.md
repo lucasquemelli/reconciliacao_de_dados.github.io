@@ -13,3 +13,12 @@ Repare que, ao compilar o comando para exibição dos outliers, o retorno no 'Co
 
 ![image](https://user-images.githubusercontent.com/81119854/124486764-4d770780-dd84-11eb-94bf-3242c54af358.png)
 
+Os comandos para a limpeza das outras variáveis e seus respectivos gráficos são vistos abaixo: 
+
+![image](https://user-images.githubusercontent.com/81119854/124487364-fcb3de80-dd84-11eb-9e14-be1d40e468b0.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124487420-148b6280-dd85-11eb-8ab7-0203ae3f2c8a.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124487710-6d5afb00-dd85-11eb-94ea-2bcab61285fc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/124487591-4ac8e200-dd85-11eb-9d14-0d77d9ca8554.png)
